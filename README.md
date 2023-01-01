@@ -63,6 +63,12 @@ The work is divided into the following steps:
 
 [**Agent-Based Network Models for COVID-19**](https://www.wolframcloud.com/obj/covid-19/PublishedAgent-Based-Networks-Models-for-COVID-19.nb)
 
+### Databases
+
+https://github.com/owid/covid-19-data
+
+### Tools
+
 * Mathematica v13
 * Python language v3.8.10
 * Numpy library v1.22.
