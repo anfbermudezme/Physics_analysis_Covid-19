@@ -1,6 +1,6 @@
 # Physics_analysis_Covid-19
 
-In this repository you will find all the work done for the Physics thesis of Andrés Felipe Bermúdez Mendoza. In this work, the corresponding analysis of the Covid-19 pandemic, in particular. **The Modeling of vaccination and its impact on the Covid-19 pandemic studying epidemiological models using Wolfram model**.
+This repository contains all the work carried out for the Physics thesis of Andrés Felipe Bermúdez Mendoza. The thesis focuses on analyzing the Covid-19 pandemic, with particular emphasis on modeling vaccination strategies and their impact using epidemiological models based on the Wolfram framework.
 
 ![image](https://user-images.githubusercontent.com/30726391/174414446-a8780aee-9255-4370-9b9c-b8df4ad3b28a.png)
 
